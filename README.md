@@ -13,4 +13,15 @@ apm install --packages-file AtomPackageList.txt
 
 Sit back and have tea. :)
 
+## After Installing
 
+Go into your Atom preferences and set the UI & syntax themes to Sophisticated.
+
+## Upcoming Updates
+
+Right now there's one setup file, which is all the packages I use for front-end development with JS/React/etc. I'm thinking about making a few packs in the future:
+
+1. Everything
+2. Front-end React
+3. Python development
+4. Golang development
